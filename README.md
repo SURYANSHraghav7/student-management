@@ -2,6 +2,8 @@
 
 A REST API built with Spring Boot and JPA/Hibernate for managing students, courses, and enrollments.
 
+Live API: https://student-management-production-5173.up.railway.app
+
 ## Features
 
 - Full CRUD operations for Students, Courses, and Enrollments
@@ -12,7 +14,7 @@ A REST API built with Spring Boot and JPA/Hibernate for managing students, cours
 
 ## Tech Stack
 
-- Java 25
+- Java 21
 - Spring Boot 4.1.1
 - Spring Data JPA / Hibernate
 - MySQL
